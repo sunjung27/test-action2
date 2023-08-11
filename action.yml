@@ -1,0 +1,4 @@
+# https://help.github.com/en/articles/metadata-syntax-for-github-actions
+name: testing the action
+description: I want to test this action and see the flow
+author: sj
